@@ -1,3 +1,5 @@
+package assignment_11.Q3;
+
 public class Calc {
     public static void main(String[] args) {
         Customer customer1 = new Customer("John Doe", true, "Premium");
